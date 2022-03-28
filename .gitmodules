@@ -1,0 +1,6 @@
+[submodule "Project/openmw"]
+	path = Project/openmw
+	url = https://github.com/PierceLBrooks/openmw.git
+[submodule "Buildster"]
+	path = Buildster
+	url = https://github.com/PierceLBrooks/Buildster.git
